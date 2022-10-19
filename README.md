@@ -1,7 +1,6 @@
 
 ## Jalali/Shamsi Calendar  Datepicker and TimePicker
-Calendar 
-, Datepicker and Date Convertor For Persian Date(Jalali/Shamsi date) with holiday for Android and Ios
+Calendar , Datepicker and Date Convertor For Persian Date(Jalali/Shamsi date) with holiday for Android and Ios
 
 Based on Material  Flutter DatePicker And TimePicker
 
